@@ -1,0 +1,23 @@
+{
+  "name": "profile-n",
+  "version": "1.0.0",
+  "description": "Profile N - Birthday website with Netflix theme",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hunmonters/Profile_N.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hunmonters/Profile_N/issues"
+  },
+  "homepage": "https://github.com/Hunmonters/Profile_N#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
